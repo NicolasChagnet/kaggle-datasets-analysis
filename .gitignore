@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 #
 /Credit\ Risk\ Analysis/data/loan/loan.csv
+/Legendary\ Pokemon/pokemonwebscraper/
+pyrightconfig.json
