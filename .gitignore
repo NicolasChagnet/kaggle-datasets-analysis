@@ -159,4 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 #
-Credit Risk Analysis/data/loan/loan.csv
+/Credit\ Risk\ Analysis/data/loan/loan.csv
